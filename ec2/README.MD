@@ -8,3 +8,6 @@
 
 ### Outputs
 
+- public_ip: public_ip of the instance
+- private_ip: private_ip of the instance
+- id: instance_id of the instance
