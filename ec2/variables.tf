@@ -8,7 +8,7 @@ variable "instance_type" {
   type = string
 }
 
-variable "tagsss" {
+variable "tags" {
   default = {}
   type = map
 }
